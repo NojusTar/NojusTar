@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NojusTaroza
+- 👋 Hi, I’m Nojus Taroza
 - 👀 I’m interested in making web and gamedev projects 
 - 📫 How to reach me NojusTar2000@gmail.com
 
